@@ -1,2 +1,2 @@
-# yarle
-My YARLE config and template
+# YARLE Config and Template
+My [YARLE](https://github.com/akosbalasko/yarle) config and template

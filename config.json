@@ -1,0 +1,60 @@
+{
+    "enexSources": [
+       "./input/"
+       ],
+    "templateFile": "./template.tmpl",
+    "outputDir": "/Users/dvolk/repo/cobrain/vault/evernote",
+    "isZettelkastenNeeded": false,
+    "useZettelIdAsFilename": false,
+    "plainTextNotesOnly": false,
+    "skipWebClips": false,
+    "useHashTags": false,
+    "outputFormat": "ObsidianMD",
+    "taskOutputFormat": "ObsidianMD",
+    "urlEncodeFileNamesAndLinks": false,
+    "skipEnexFileNameFromOutputPath": false,
+    "monospaceIsCodeBlock": true,
+    "keepMDCharactersOfENNotes": false,
+    "keepOriginalAmountOfNewlines": false,
+    "addExtensionToInternalLinks": false,
+    "nestedTags": {
+      "separatorInEN": "_",
+      "replaceSeparatorWith": "/",
+      "replaceSpaceWith": "-"
+   },
+   "sanitizeResourceNameSpaces": true,
+   "replacementChar": "_",
+   "replacementCharacterMap": {
+      "<": "_",
+      ">": "_",
+      ":": "_",
+      "\"": "_",
+      "/": "_",
+      "\\": "_", 
+      "|": "_",
+      "?": "_",
+      "*": "_",
+      "%": "_",
+      "[": "(",
+      "]": ")"
+    },
+   "generateNakedUrls": true,
+   "resourcesDir": "resources",
+   "turndownOptions": {
+      "headingStyle": "atx",
+      "bulletListMarker": "-",
+      "codeBlockStyle": "fenced"
+   },
+   "dateFormat": "YYYY-MM-DD",
+   "haveEnexLevelResources": true,
+   "haveGlobalResources": false,
+   "useUniqueUnknownFileNames": true,
+   "useLevenshteinForLinks": true,
+    "logseqSettings":{
+        "journalNotes": false
+    },
+   "obsidianSettings": {
+      "omitLinkDisplayName": false
+    }
+
+}
